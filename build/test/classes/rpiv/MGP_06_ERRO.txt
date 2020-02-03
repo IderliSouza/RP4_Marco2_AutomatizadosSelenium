@@ -1,0 +1,1 @@
+GP04-41;lista_planos:singleDT:0:visualizar;cliente3;12,03;atividade3;normal;nenhuma;nenhum;nenhum;tecnologia;fonte de receita

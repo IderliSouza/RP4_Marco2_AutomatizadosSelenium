@@ -1,0 +1,6 @@
+5
+emailValido@hotmail.com
+valido@hotmail.com
+asd@gmail.com
+asd@outlook.com
+joaofisio_sma@hotmail.com
